@@ -15,14 +15,15 @@ body {
     color: whitesmoke;
 }
 .textchange{
-    color: #1389b1;
-    font-family: fantasy;
+    color: #777;
+    font-family: cursive;
 }
 .texttwo{
-    color: #050505;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 4.5rem;
+    color: rgb(54, 54, 54);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5.5rem;
     font-weight: bolder;
+    font-style: italic;
 }
 
 .hero-section h1 {
@@ -34,7 +35,7 @@ body {
     font-weight: bold;
     font-family: monospace;
     font-size: 60px;
-    color: rgb(30, 124, 9);
+    color: black;
 }
 .typing {
     width: auto;
